@@ -1,1 +1,1 @@
-This project demonstrates a Sentiment Analysis pipeline using the Multinomial Naive Bayes (MNB) model on ecommerce review data. The goal is to classify customer reviews into positive, neutral, or negative sentiments based on their ratings.
+This project demonstrates Sentiment Analysis using the Multinomial Naive Bayes (MNB) model on ecommerce review data. The goal is to classify customer reviews into positive, neutral, or negative sentiments based on their ratings.
